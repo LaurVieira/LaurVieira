@@ -1,3 +1,5 @@
-👋 Olá! Sou a Laura Vieira, estudante de Ciência da Computação e apaixonada por tecnologia. Estou sempre em busca de aprender coisas novas e me aprimorar como desenvolvedora.
+Olá! Sou Laura Vieira, estudante de Ciência da Computação com grande interesse por tecnologia.
 
-💻 Tenho interesse em desenvolvimento front-end e adoro explorar ferramentas e tecnologias que trazem mais interatividade e beleza para as aplicações.
+Estou sempre em busca de evoluir como desenvolvedora, explorando novas ferramentas, linguagens e desafios que ampliem meu conhecimento.
+
+Tenho interesse na área de Ciência de Dados, buscando aprender como transformar dados em insights valiosos por meio de análise, visualização e modelagem.
