@@ -62,7 +62,7 @@ Currently dedicating my focus to the wilderness of Data Science: mastering analy
 ```yaml
 COMMUNICATION_CHANNELS:
   Email: "lauracarolina376@gmail.com"
-  LinkedIn: "linkedin.com/in/lauravieira"
+  LinkedIn: "linkedin.com/in/lauraa-vieira"
 ```
 
 ---
