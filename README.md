@@ -59,36 +59,11 @@ Currently dedicating my focus to the wilderness of Data Science: mastering analy
 
 ---
 
-### 📊 ──── RADAR TELEMETRY (GITHUB STATS)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaurVieira&show_icons=true&theme=dark&bg_color=0D1117&title_color=4E6E45&icon_color=8A3324&text_color=C9D1D9&border_color=2D3B26&hide_border=false" alt="Laura's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurVieira&layout=compact&theme=dark&bg_color=0D1117&title_color=4E6E45&icon_color=8A3324&text_color=C9D1D9&border_color=2D3B26&hide_border=false" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaurVieira&theme=dark&background=0D1117&title=4E6E45&stats=C9D1D9&icon=8A3324&stroke=2D3B26&fire=8A3324" alt="GitHub Streak" width="98%" />
-</p>
-
----
-
-### ☣️ ──── SECURED CACHES (FEATURED PROJECTS)
-
-📁 **[Project-Alpha: Quarantine Zone Data Scanner](https://github.com/LaurVieira)**
-> A Python-driven diagnostic engine designed to parse complex behavioral data arrays. Models anomalies with high precision parameters.
-`Python` `Pandas` `Scikit-Learn`
-
-📁 **[Project-Beta: Overgrown Terminal UI](https://github.com/LaurVieira)**
-> A lightweight, highly dark-customized application interface designed using HTML, CSS, and vanilla JavaScript. Optimized for low-power post-apocalyptic displays.
-`JavaScript` `CSS` `HTML`
-
----
-
 ### 📡 ──── FREQUENCY BEACON (CONTACT)
 
 ```yaml
 COMMUNICATION_CHANNELS:
-  Email: "laura.vieira@example.com"
+  Email: "lauracarolina376@gmail.com"
   LinkedIn: "linkedin.com/in/lauravieira"
 ```
 
