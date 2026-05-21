@@ -21,12 +21,9 @@
 ### 🌿 ──── SURVIVAL LOG: ABOUT ME
 
 ```text
+[LOG_ENTRY_05.20] // CODEBASE WILDERNESS
 I'm Laura Vieira. A Computer Science student navigating the digital ruins, driven by an unyielding curiosity to deconstruct complex systems and rebuild them stronger. 
 
 In a world shaped by chaotic streams of information, I treat every line of code as a path through overgrown concrete—searching for hidden patterns, uncovering critical truths, and transforming raw noise into impactful insights. Resilient by design, determined by nature, I survive every system crash and technical hurdle.
 
-Currently dedicating my focus to the wilderness of Data Science: mastering analysis, visual mapping, and predictive modeling to decode the chaos around us.Olá! Sou Laura Vieira, estudante de Ciência da Computação com grande interesse por tecnologia.
-
-Estou sempre em busca de evoluir como desenvolvedora, explorando novas ferramentas, linguagens e desafios que ampliem meu conhecimento.
-
-Tenho interesse na área de Ciência de Dados, buscando aprender como transformar dados em insights valiosos por meio de análise, visualização e modelagem.
+Currently dedicating my focus to the wilderness of Data Science: mastering analysis, visual mapping, and predictive modeling to decode the chaos around us.
