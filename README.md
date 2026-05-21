@@ -21,7 +21,6 @@
 ### 🌿 ──── SURVIVAL LOG: ABOUT ME
 
 ```text
-[LOG_ENTRY_05.20] // CODEBASE WILDERNESS
 I'm Laura Vieira. A Computer Science student navigating the digital ruins, driven by an unyielding curiosity to deconstruct complex systems and rebuild them stronger. 
 
 In a world shaped by chaotic streams of information, I treat every line of code as a path through overgrown concrete—searching for hidden patterns, uncovering critical truths, and transforming raw noise into impactful insights. Resilient by design, determined by nature, I survive every system crash and technical hurdle.
