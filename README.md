@@ -1,5 +1,6 @@
-# <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=35&duration=4000&pause=1000&color=B2C2B0&center=true&vCenter=true&width=600&lines=LAURA+VIEIRA;ENDURE+AND+SURVIVE.;SYSTEMS+ONLINE." alt="Laura Vieira Header" />
+# <!-- SYSTEM LOG: OVERGROWN_NET_CORES -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=45&duration=5000&pause=2000&color=B2C2B0&center=true&vCenter=true&width=600&lines=LAURA+VIEIRA" alt="Laura Vieira" />
 </p>
 
 <p align="center">
@@ -26,3 +27,75 @@ I'm Laura Vieira. A Computer Science student navigating the digital ruins, drive
 In a world shaped by chaotic streams of information, I treat every line of code as a path through overgrown concrete—searching for hidden patterns, uncovering critical truths, and transforming raw noise into impactful insights. Resilient by design, determined by nature, I survive every system crash and technical hurdle.
 
 Currently dedicating my focus to the wilderness of Data Science: mastering analysis, visual mapping, and predictive modeling to decode the chaos around us.
+```
+
+---
+
+### 🛠️ ──── INVENTORY (TECH STACK)
+
+<p align="left">
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/Python-3A5335?style=for-the-badge&logo=python&logoColor=E0E0E0" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-4A5D4E?style=for-the-badge&logo=javascript&logoColor=E0E0E0" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-1A1A1A?style=for-the-badge&logo=html5&logoColor=8A3324" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-2D3B26?style=for-the-badge&logo=css3&logoColor=E0E0E0" alt="CSS3" />
+</p>
+<p align="left">
+  <!-- Tools & Infrastructure -->
+  <img src="https://img.shields.io/badge/Git-8A3324?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-2A3828?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Data_Science-3A5335?style=for-the-badge&logo=jupyter&logoColor=white" alt="Data Science" />
+</p>
+
+---
+
+### 🎯 ──── SCANNING SECTORS (AREAS OF INTEREST)
+
+- 📊 **Data Science & Analytics** — Extracting meaning from dark, unstructured signal noise.
+- 📉 **Predictive Modeling** — Calculating future vectors to survive the unexpected.
+- 🕸️ **Full-Stack Scripting** — Structuring terminal logic and interface frameworks that endure.
+- 🌲 **Automation & Scripting** — Building tools to let nature and automation streamline workflows.
+
+---
+
+### 📊 ──── RADAR TELEMETRY (GITHUB STATS)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LaurVieira&show_icons=true&theme=dark&bg_color=0D1117&title_color=4E6E45&icon_color=8A3324&text_color=C9D1D9&border_color=2D3B26&hide_border=false" alt="Laura's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurVieira&layout=compact&theme=dark&bg_color=0D1117&title_color=4E6E45&icon_color=8A3324&text_color=C9D1D9&border_color=2D3B26&hide_border=false" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaurVieira&theme=dark&background=0D1117&title=4E6E45&stats=C9D1D9&icon=8A3324&stroke=2D3B26&fire=8A3324" alt="GitHub Streak" width="98%" />
+</p>
+
+---
+
+### ☣️ ──── SECURED CACHES (FEATURED PROJECTS)
+
+📁 **[Project-Alpha: Quarantine Zone Data Scanner](https://github.com/LaurVieira)**
+> A Python-driven diagnostic engine designed to parse complex behavioral data arrays. Models anomalies with high precision parameters.
+`Python` `Pandas` `Scikit-Learn`
+
+📁 **[Project-Beta: Overgrown Terminal UI](https://github.com/LaurVieira)**
+> A lightweight, highly dark-customized application interface designed using HTML, CSS, and vanilla JavaScript. Optimized for low-power post-apocalyptic displays.
+`JavaScript` `CSS` `HTML`
+
+---
+
+### 📡 ──── FREQUENCY BEACON (CONTACT)
+
+```yaml
+COMMUNICATION_CHANNELS:
+  Email: "laura.vieira@example.com"
+  LinkedIn: "linkedin.com/in/lauravieira"
+```
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /><br>
+  <em>“Keep finding something to fight for.”</em><br>
+  <strong>ＥＮＤＵＲＥ  ＡＮＤ  ＳＵＲＶＩＶＥ．</strong>
+</p>
