@@ -69,7 +69,6 @@ COMMUNICATION_CHANNELS:
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /><br>
   <em>“Keep finding something to fight for.”</em><br>
   <strong>ＥＮＤＵＲＥ  ＡＮＤ  ＳＵＲＶＩＶＥ．</strong>
 </p>
