@@ -1,6 +1,5 @@
-# <!-- SYSTEM LOG: OVERGROWN_NET_CORES -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/main?type=slice&color=1e291b&height=220&section=header&text=LAURA%20VIEIRA&fontSize=40&fontColor=b2c2b0&fontAlign=50&fontAlignY=45&animation=twinkling" alt="Laura Vieira Header" />
+# <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=35&duration=4000&pause=1000&color=B2C2B0&center=true&vCenter=true&width=600&lines=LAURA+VIEIRA;ENDURE+AND+SURVIVE.;SYSTEMS+ONLINE." alt="Laura Vieira Header" />
 </p>
 
 <p align="center">
