@@ -44,9 +44,9 @@ Currently dedicating my focus to the wilderness of Data Science: mastering analy
 
 ### 🎯 AREAS OF INTEREST
 
-- 📊 **Data Science & Analytics** — Extracting meaning from dark, unstructured signal noise.
-- 📉 **Predictive Modeling** — Calculating future vectors to survive the unexpected.
-- 🌲 **Automation & Scripting** — Building tools to let nature and automation streamline workflows.
+- 📊 **Data Science & Analytics** 
+- 📉 **Predictive Modeling** 
+- 🌲 **Automation & Scripting** 
 
 ---
 
