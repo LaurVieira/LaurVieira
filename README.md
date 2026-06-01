@@ -42,7 +42,7 @@ Currently dedicating my focus to the wilderness of Data Science: mastering analy
 
 ---
 
-### 🎯 AREAS OF INTEREST
+### AREAS OF INTEREST
 
 - 📊 **Data Science & Analytics** 
 - 📉 **Predictive Modeling** 
