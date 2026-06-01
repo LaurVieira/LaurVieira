@@ -18,7 +18,7 @@
 
 ---
 
-### 🌿 ──── SURVIVAL LOG: ABOUT ME
+### ABOUT ME
 
 ```text
 I'm Laura Vieira. A Computer Science student navigating the digital ruins, driven by an unyielding curiosity to deconstruct complex systems and rebuild them stronger. 
@@ -30,7 +30,7 @@ Currently dedicating my focus to the wilderness of Data Science: mastering analy
 
 ---
 
-### 🛠️ ──── INVENTORY (TECH STACK)
+### TECH STACK
 
 <p align="left">
   <!-- Core Languages -->
@@ -48,16 +48,15 @@ Currently dedicating my focus to the wilderness of Data Science: mastering analy
 
 ---
 
-### 🎯 ──── SCANNING SECTORS (AREAS OF INTEREST)
+### 🎯 AREAS OF INTEREST
 
 - 📊 **Data Science & Analytics** — Extracting meaning from dark, unstructured signal noise.
 - 📉 **Predictive Modeling** — Calculating future vectors to survive the unexpected.
-- 🕸️ **Full-Stack Scripting** — Structuring terminal logic and interface frameworks that endure.
 - 🌲 **Automation & Scripting** — Building tools to let nature and automation streamline workflows.
 
 ---
 
-### 📡 ──── FREQUENCY BEACON (CONTACT)
+### CONTACT
 
 ```yaml
 COMMUNICATION_CHANNELS:
