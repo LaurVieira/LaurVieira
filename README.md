@@ -10,12 +10,6 @@
   </samp>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ACTIVE-3A5335?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/ENV-POST__APOCALYPTIC-8A3324?style=flat-square" />
-  <img src="https://img.shields.io/badge/FACTION-FIREFLIES-1A1A1A?style=flat-square" />
-</p>
-
 ---
 
 ### ABOUT ME
