@@ -30,18 +30,18 @@ buscando transformar conhecimento em soluções e projetos cada vez mais complet
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3A5335?style=for-the-badge&logo=python&logoColor=E0E0E0" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-8A3324?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-8A3324?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Data_Science-3A5335?style=for-the-badge&logo=jupyter&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Pandas-8A3324?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
 
 ### CONTACT
 
 ```yaml
-COMMUNICATION_CHANNELS:
 E-mail: "lauracarolina376@gmail.com"
 LinkedIn: "linkedin.com/in/lauraa-vieira"
 ```
