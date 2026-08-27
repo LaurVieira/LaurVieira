@@ -1,26 +1,54 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=32&duration=4000&pause=1500&color=8A3324&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Laura;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Movida+por+curiosidade" alt="Typing SVG" /> </p> <p align="center"> <samp> <strong>ESTUDANTE DE CIÊNCIA DA COMPUTAÇÃO // CURIOSA POR DADOS & IA</strong><br> "código como forma de entender como as coisas funcionam — e de construir algo com isso" </samp> </p>
+# <!-- SYSTEM LOG: OVERGROWN_NET_CORES -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=45&duration=5000&pause=2000&color=B2C2B0&center=true&vCenter=true&width=600&lines=LAURA+VIEIRA" alt="Laura Vieira" />
+</p>
 
-SOBRE MIM
-sou a laura, estudante de ciência da computação movida por curiosidade
+<p align="center">
+  <samp>
+    <strong>𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 // 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝</strong><br>
+    "🌿 Out here, every line of code is another step forward."
+  </samp>
+</p>
 
-gosto de entender como as coisas funcionam por trás do código, transformar
-problemas em soluções e aprender um pouco mais a cada projeto
+---
 
-atualmente estou aprofundando meus conhecimentos em programação, dados e
-inteligência artificial — buscando transformar conhecimento em soluções
-e projetos cada vez mais completos
+### ABOUT ME
 
-TECH STACK
-Linguagens — o dia a dia
-<p align="left"> <img src="https://img.shields.io/badge/Python-8A3324?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-8A3324?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-8A3324?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-8A3324?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/SQL-8A3324?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /> </p>
-Dados & IA — onde estou me aprofundando
-<p align="left"> <img src="https://img.shields.io/badge/Pandas-8A3324?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-8A3324?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> </p>
-Ferramentas — versionamento e colaboração
-<p align="left"> <img src="https://img.shields.io/badge/Git-8A3324?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-8A3324?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </p>
+```text
+sou a laura, estudante de ciência da computação e movida por curiosidade
 
-CONTATO
-canais_de_contato:
- e-mail: "lauracarolina376@gmail.com"
- linkedin: "linkedin.com/in/lauraa-vieira"
+gosto de entender como as coisas funcionam, transformar problemas em código e aprender um pouco mais a cada projeto
 
-<p align="center"> <em>"transformando conhecimento em código, um projeto de cada vez."</em> </p>
+atualmente, estou aprofundando meus conhecimentos em programação, dados e inteligência artificial,
+
+buscando transformar conhecimento em soluções e projetos cada vez mais completos
+```
+
+---
+
+### TECH STACK
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3A5335?style=for-the-badge&logo=python&logoColor=E0E0E0" alt="Python" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-8A3324?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Data_Science-3A5335?style=for-the-badge&logo=jupyter&logoColor=white" alt="Data Science" />
+</p>
+
+
+### CONTACT
+
+```yaml
+COMMUNICATION_CHANNELS:
+E-mail: "lauracarolina376@gmail.com"
+LinkedIn: "linkedin.com/in/lauraa-vieira"
+```
+
+---
+
+<p align="center">
+  <em>“Keep finding something to fight for.”</em><br>
+  <strong>ＥＮＤＵＲＥ  ＡＮＤ  ＳＵＲＶＩＶＥ．</strong>
+</p>
