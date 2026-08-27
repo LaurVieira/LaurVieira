@@ -29,25 +29,14 @@ buscando transformar conhecimento em soluções e projetos cada vez mais complet
 ### TECH STACK
 
 <p align="left">
-  <!-- Core Languages -->
   <img src="https://img.shields.io/badge/Python-3A5335?style=for-the-badge&logo=python&logoColor=E0E0E0" alt="Python" />
 </p>
 <p align="left">
-  <!-- Tools & Infrastructure -->
   <img src="https://img.shields.io/badge/Git-8A3324?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Data_Science-3A5335?style=for-the-badge&logo=jupyter&logoColor=white" alt="Data Science" />
 </p>
 
----
-
-### AREAS OF INTEREST
-
-- 📊 **Data Science & Analytics** 
-- 📉 **Predictive Modeling** 
-- 🌲 **Automation & Scripting** 
-
----
 
 ### CONTACT
 
