@@ -15,11 +15,11 @@
 ### ABOUT ME
 
 ```text
-I'm Laura Vieira. A Computer Science student navigating the digital ruins, driven by an unyielding curiosity to deconstruct complex systems and rebuild them stronger. 
+sou a laura, estudante de ciência da computação e movida por curiosidade
 
-In a world shaped by chaotic streams of information, I treat every line of code as a path through overgrown concrete—searching for hidden patterns, uncovering critical truths, and transforming raw noise into impactful insights. Resilient by design, determined by nature, I survive every system crash and technical hurdle.
+gosto de entender como as coisas funcionam, transformar problemas em código e aprender um pouco mais a cada projeto
 
-Currently dedicating my focus to the wilderness of Data Science: mastering analysis, visual mapping, and predictive modeling to decode the chaos around us.
+atualmente, estou aprofundando meus conhecimentos em programação, dados e inteligência artificial, buscando transformar conhecimento em soluções e projetos cada vez mais completos
 ```
 
 ---
