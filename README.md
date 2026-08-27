@@ -29,9 +29,6 @@ Currently dedicating my focus to the wilderness of Data Science: mastering analy
 <p align="left">
   <!-- Core Languages -->
   <img src="https://img.shields.io/badge/Python-3A5335?style=for-the-badge&logo=python&logoColor=E0E0E0" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-4A5D4E?style=for-the-badge&logo=javascript&logoColor=E0E0E0" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-1A1A1A?style=for-the-badge&logo=html5&logoColor=8A3324" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-2D3B26?style=for-the-badge&logo=css3&logoColor=E0E0E0" alt="CSS3" />
 </p>
 <p align="left">
   <!-- Tools & Infrastructure -->
