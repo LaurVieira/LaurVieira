@@ -19,7 +19,9 @@ sou a laura, estudante de ciência da computação e movida por curiosidade
 
 gosto de entender como as coisas funcionam, transformar problemas em código e aprender um pouco mais a cada projeto
 
-atualmente, estou aprofundando meus conhecimentos em programação, dados e inteligência artificial, buscando transformar conhecimento em soluções e projetos cada vez mais completos
+atualmente, estou aprofundando meus conhecimentos em programação, dados e inteligência artificial,
+
+buscando transformar conhecimento em soluções e projetos cada vez mais completos
 ```
 
 ---
