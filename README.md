@@ -33,11 +33,13 @@ buscando transformar conhecimento em soluções e projetos cada vez mais complet
   <img src="https://img.shields.io/badge/SQL-8A3324?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-8A3324?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/NumPy-8A3324?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> 
   <img src="https://img.shields.io/badge/Pandas-8A3324?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-8A3324?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ### CONTACT
 
