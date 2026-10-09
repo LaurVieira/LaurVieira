@@ -36,7 +36,6 @@ Estou aprendendo **análise de dados e machine learning em Python** construindo 
 |---|---|
 | 📚 **Studying** | Data science, machine learning, and algorithms & data structures |
 | 🛠️ **Building** | Data projects that go from raw data to a clear story, documented end to end |
-| 🌍 **Improving** | My English: reading docs, writing READMEs, and communicating results |
 
 ---
 
