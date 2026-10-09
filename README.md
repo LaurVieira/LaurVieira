@@ -4,8 +4,8 @@
 
 *"Out here, every line of code is another step forward."* 🌿
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura_Vieira-8A3324?style=for-the-badge&logoColor=white)](https://linkedin.com/in/lauraa-vieira)
-[![Repositories](https://img.shields.io/badge/GitHub-Repositories-3A5335?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaurVieira?tab=repositories)
+[![LinkedIn](https://linkedin.com/in/lauraa-vieira)
+[![Repositories](https://github.com/LaurVieira?tab=repositories)
 
 </div>
 
