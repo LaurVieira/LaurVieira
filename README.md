@@ -9,7 +9,6 @@
     "🌿 Out here, every line of code is another step forward."
   </samp>
 </p>
----
 
 ## 👋 About me
 
