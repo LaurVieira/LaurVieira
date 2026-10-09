@@ -3,12 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=45&duration=5000&pause=2000&color=B2C2B0&center=true&vCenter=true&width=600&lines=LAURA+VIEIRA" alt="Laura Vieira" />
 </p>
 
-<p align="center">
-  <samp>
-    <strong>𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 // 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝</strong><br>
-    "🌿 Out here, every line of code is another step forward."
-  </samp>
-</p>
+<div align="center">
+
+[![Repositories](https://img.shields.io/badge/GitHub-Repositories-3A5335?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaurVieira?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura_Vieira-8A3324?style=for-the-badge&logoColor=white)](https://linkedin.com/in/lauraa-vieira)
+
+</div>
 
 ## 👋 About me
 
