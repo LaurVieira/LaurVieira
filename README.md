@@ -4,8 +4,8 @@
 
 *"Out here, every line of code is another step forward."* 🌿
 
-[![LinkedIn](https://linkedin.com/in/lauraa-vieira)
-[![Repositories](https://github.com/LaurVieira?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura_Vieira-8A3324?style=for-the-badge&logoColor=white)](https://linkedin.com/in/lauraa-vieira)
+[![Repositories](https://img.shields.io/badge/GitHub-Repositories-3A5335?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaurVieira?tab=repositories)
 
 </div>
 
@@ -36,6 +36,7 @@ Estou aprendendo **análise de dados e machine learning em Python** construindo 
 |---|---|
 | 📚 **Studying** | Data science, machine learning, and algorithms & data structures |
 | 🛠️ **Building** | Data projects that go from raw data to a clear story, documented end to end |
+| 🌍 **Improving** | My English: reading docs, writing READMEs, and communicating results |
 
 ---
 
@@ -49,19 +50,11 @@ Estou aprendendo **análise de dados e machine learning em Python** construindo 
 
 ## 🚀 Featured projects
 
-### 🏛️ [Nur Mah Museum: Market Intelligence](https://github.com/LaurVieira/desafio-nur-mah)
-Exploratory and predictive analysis of the financial health and geographic distribution of U.S. cultural institutions, using public IMLS data to support fundraising and partnership strategy.
-
-- Identified three strategic fronts: realistic fundraising baselines, partnerships with higher-revenue sectors, and geographic expansion
-- Built a **Random Forest Regressor** baseline to estimate revenue from institution type and state
-- **Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-Learn · Jupyter
-
-### More
-
 | Project | Description | Stack |
 |---|---|---|
-| [**B-Tree-Lab**](https://github.com/LaurVieira/B-Tree-Lab) | B-Tree implementation to study data structures and algorithms | JavaScript |
-| [**queridometro-bot**](https://github.com/LaurVieira/queridometro-bot) | Discord bot that brings the "Queridômetro" game to a server | JavaScript |
+| 🏛️ [**Nur Mah Museum: Market Intelligence**](https://github.com/LaurVieira/desafio-nur-mah) | Exploratory and predictive analysis of U.S. cultural institutions using public IMLS data, with strategic recommendations for fundraising and partnerships and a Random Forest baseline model that estimates revenue from institution type and state | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Jupyter |
+| 🌳 [**B-Tree-Lab**](https://github.com/LaurVieira/B-Tree-Lab) | B-Tree implementation to study data structures and algorithms | JavaScript |
+| 🤖 [**queridometro-bot**](https://github.com/LaurVieira/queridometro-bot) | Discord bot that brings the "Queridômetro" game to a server | JavaScript |
 
 ---
 
