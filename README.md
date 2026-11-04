@@ -52,6 +52,8 @@ Estou aprendendo **análise de dados e machine learning em Python** construindo 
 | Project | Description | Stack |
 |---|---|---|
 | 🏛️ [**Nur Mah Museum: Market Intelligence**](https://github.com/LaurVieira/desafio-nur-mah) | Exploratory and predictive analysis of U.S. cultural institutions using public IMLS data, with strategic recommendations for fundraising and partnerships and a Random Forest baseline model that estimates revenue from institution type and state | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Jupyter |
+| 🎤 [**Swiftlytics**](https://github.com/LaurVieira/swiftlytics) ([live site](https://laurvieira.github.io/swiftlytics/)) | Data science project on Taylor Swift's studio albums: how the sound changes from era to era through Spotify audio features, how much of a song's mood (valence) a model can predict from audio alone, and whether lyrics add anything. Includes album-level validation, a Streamlit dashboard and a bilingual scrollytelling site | Python, Pandas, Scikit-Learn, Streamlit, HTML, CSS, JavaScript, GSAP |
+| 💰 [**Minhas Finanças**](https://github.com/LaurVieira/financas) ([live app](https://laurvieira.github.io/financas/)) | Personal finance app for my own use: tracks salary, extra income, monthly expenses and CDB investments month by month, and syncs between my computer and iPhone as an installable app (PWA) with login, offline support and Row Level Security | HTML, CSS, JavaScript, Supabase, PostgreSQL, PWA |
 | 🌳 [**B-Tree-Lab**](https://github.com/LaurVieira/B-Tree-Lab) | B-Tree implementation to study data structures and algorithms | JavaScript |
 | 🤖 [**queridometro-bot**](https://github.com/LaurVieira/queridometro-bot) | Discord bot that brings the "Queridômetro" game to a server | JavaScript |
 
